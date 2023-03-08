@@ -34,7 +34,7 @@
 
 ![image](https://github.com/KartaYu/CNN-Based-with-ensemble-method-for-PCB-Defects-Multi-label-Classification/blob/main/pic/result%20of%20single%20model.png)
 - We can observe the results and figure out that EfficientNet gets better performance than CoAtNet.
-In addition, we visualize the picture by using grad cam after processed through the prediction.
+In addition, we visualize the picture by using grad cam after processed through the prediction. With Grad-CAM, we can understand the basis for the model's predictions.
 ![image](https://github.com/KartaYu/CNN-Based-with-ensemble-method-for-PCB-Defects-Multi-label-Classification/blob/main/pic/Experiments%20Result%20-%20Feature%20maps%20visualization%20of%20Efficientnet_B0.png)
 ![image](https://github.com/KartaYu/CNN-Based-with-ensemble-method-for-PCB-Defects-Multi-label-Classification/blob/main/pic/Experiments%20Result%20-%20Feature%20maps%20visualization%20of%20CoatNet.png)
 
