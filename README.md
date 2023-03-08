@@ -1,6 +1,9 @@
 # CNN Based with ensemble method for PCB Defects Multi label Classification
 ### Brief Description
 - A course project for Cloud Computing and Big Data Analytics
+- Programming Language : python
+- Deep Learning Framework : pytorch
+- Dev tool : Jupyter Notebook
 ### Motivation
 #### Background
 - Many difficult market pressures.
