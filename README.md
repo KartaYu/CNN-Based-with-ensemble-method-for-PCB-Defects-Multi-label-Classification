@@ -11,7 +11,7 @@
 - Largely dependent on user input to select algorithm set for the PCB 
 - AOI equipment is commonly used for defect detection, which has the characteristic of “it is better to kill a hundred mistakes than to let one go”
 ### Dataset
-- The dataset is from the competition Defect Classifications of AOI from AIdea [https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27?lang=en]
+- The dataset is from the competition Defect Classifications of AOI from AIdea
 - Download Link : https://tinyurl.com/uwrxf9f5
 - Format : PNG
 - Data split : 1,769 for Training set, 379 for valid set, 380 for Test set.
@@ -54,5 +54,8 @@ In addition, we visualize the picture by using grad cam after processed through 
 - Soft Gradient Boosting has higher accuracy when ensemble 2 models
 - Snapshot Ensemble has higher accuracy when ensemble 3 models
 
-### Appendix
+### Appendix and source code
+- dataset resource : https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27?lang=en
 - for more detail : https://github.com/KartaYu/CNN-Based-with-ensemble-method-for-PCB-Defects-Multi-label-Classification/blob/main/Documentation/Full%20Report.pdf
+- torchessemble : https://github.com/TorchEnsemble-Community/Ensemble-Pytorch
+- coatnet : https://github.com/chinhsuanwu/coatnet-pytorch
